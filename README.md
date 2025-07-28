@@ -1,3 +1,7 @@
+NAMA: FANY KURNIASIH
+BISNIS DIGITAL 4B
+NIM : 23110310021 
+
 https://github.com/fanykrnsh33/kelas-pakAR-PerancanganWebDanDesainGrafis/blob/main/Screenshot%202025-07-28%20201959.png
 
 saya menggunakan html,css dan java sript untak tampilan dan sedikit animasinya
